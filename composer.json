@@ -1,0 +1,14 @@
+{
+    "name": "mehul/crypto",
+    "type": "Encryption-Factory",
+    "description": "Encryption-Factory",
+    "version": "1.0",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "mehul\\Crypto\\": ""
+        }
+    }
+}
