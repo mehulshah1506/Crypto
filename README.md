@@ -18,4 +18,7 @@ You Need to have Composer in order to install it.
 ### USE
 Please refer Test folder in order to understand how to use it.
 
-> NOTE: The Mcrypt library has been declared DEPRECATED since PHP 7.1, to use in its OpenSSL
+> NOTE: 
+
+- The Mcrypt library has been declared DEPRECATED since PHP 7.1, to use in its OpenSSL
+- Most of the code used here has been taken from Internet websites, github repositories.
