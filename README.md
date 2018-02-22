@@ -7,11 +7,12 @@ interface to do Symmetric Algorithm encryption.
 
 
 ### Available algorithms
-AES256
-AES128
-DES3
-/* In order to use the new algorithm, create a separate file for that algorithm
-and refer the other files in the same folder*/
+- AES256
+- AES128
+- DES3
+
+> NOTE: In order to use the new algorithm, create a separate file for that algorithm
+> and refer the other files in the same folder
 
 ### USE
 Please refer Test folder in order to understand how to use it.
